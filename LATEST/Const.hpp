@@ -81,7 +81,6 @@
 /******************************************************************************/
 class Const_Type{
    public:
-/*
       ConstAdc_Type            ConstAdc;
       ConstBswM_Type           ConstBswM;
       ConstCan_Type            ConstCan;
@@ -133,9 +132,8 @@ class Const_Type{
       ConstWdg_Type            ConstWdg;
       ConstWdgIf_Type          ConstWdgIf;
       ConstWdgM_Type           ConstWdgM;
-*/
       ConstDcm_Type            ConstDcm;
-//    ConstPduR_Type           ConstPduR;
+      ConstPduR_Type           ConstPduR;
       ConstSchM_Type           ConstSchM;
       ConstSwcServiceEcuM_Type ConstSwcServiceEcuM;
       ConstEcuM_Type           ConstEcuM;
