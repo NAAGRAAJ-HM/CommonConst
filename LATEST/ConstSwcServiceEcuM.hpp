@@ -46,16 +46,16 @@ class ConstSwcServiceEcuM_Type:
 /******************************************************************************/
 /* CONSTS                                                                     */
 /******************************************************************************/
-      uint8                     u8SizeDriverInitData_One;
-      infEcuMClient*            aptrinfEcuMClient_One  [SizeDriverInitData_One];
-      ConstModule_TypeAbstract* aptrConstModule_One    [SizeDriverInitData_One];
-      CfgModule_TypeAbstract*   aptrCfgModule_One      [SizeDriverInitData_One];
-      uint8                     u8SizeDriverInitData_Zero;
-      infEcuMClient*            aptrinfEcuMClient_Zero [SizeDriverInitData_Zero];
-      ConstModule_TypeAbstract* aptrConstModule_Zero   [SizeDriverInitData_Zero];
-      CfgModule_TypeAbstract*   aptrCfgModule_Zero     [SizeDriverInitData_Zero];
-      infEcuM_SwcServiceEcuM*   ptrinfEcuM_SwcServiceEcuM;
-      infSchM_EcuM*             ptrinfSchM_EcuM;
+      uint8                           u8SizeDriverInitData_One;
+      infEcuMClient*                  aptrinfEcuMClient_One  [SizeDriverInitData_One];
+      const ConstModule_TypeAbstract* aptrConstModule_One    [SizeDriverInitData_One];
+      CfgModule_TypeAbstract*         aptrCfgModule_One      [SizeDriverInitData_One];
+      uint8                           u8SizeDriverInitData_Zero;
+      infEcuMClient*                  aptrinfEcuMClient_Zero [SizeDriverInitData_Zero];
+      const ConstModule_TypeAbstract* aptrConstModule_Zero   [SizeDriverInitData_Zero];
+      CfgModule_TypeAbstract*         aptrCfgModule_Zero     [SizeDriverInitData_Zero];
+      infEcuM_SwcServiceEcuM*         ptrinfEcuM_SwcServiceEcuM;
+      infSchM_EcuM*                   ptrinfSchM_EcuM;
 };
 
 /******************************************************************************/

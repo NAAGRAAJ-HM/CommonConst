@@ -45,6 +45,7 @@
 #include "ConstMemIf.hpp"
 #include "ConstNm.hpp"
 #include "ConstOcu.hpp"
+#include "ConstPduR.hpp"
 #include "ConstPort.hpp"
 #include "ConstPwm.hpp"
 #include "ConstRte.hpp"
@@ -61,7 +62,6 @@
 #include "ConstWdgM.hpp"
 
 #include "ConstDcm.hpp"
-#include "ConstPduR.hpp"
 #include "ConstSchM.hpp"
 #include "ConstSwcServiceEcuM.hpp"
 #include "ConstEcuM.hpp"
@@ -119,6 +119,7 @@ class Const_Type{
       ConstMemIf_Type          ConstMemIf;
       ConstNm_Type             ConstNm;
       ConstOcu_Type            ConstOcu;
+      ConstPduR_Type           ConstPduR;
       ConstPort_Type           ConstPort;
       ConstPwm_Type            ConstPwm;
       ConstRte_Type            ConstRte;
@@ -132,8 +133,8 @@ class Const_Type{
       ConstWdg_Type            ConstWdg;
       ConstWdgIf_Type          ConstWdgIf;
       ConstWdgM_Type           ConstWdgM;
+
       ConstDcm_Type            ConstDcm;
-      ConstPduR_Type           ConstPduR;
       ConstSchM_Type           ConstSchM;
       ConstSwcServiceEcuM_Type ConstSwcServiceEcuM;
       ConstEcuM_Type           ConstEcuM;
