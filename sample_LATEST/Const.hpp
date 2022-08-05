@@ -7,7 +7,7 @@
 /******************************************************************************/
 /* #INCLUDES                                                                  */
 /******************************************************************************/
-#include "ConstCommonARA.hpp"
+#include "ConstProjectARA.hpp"
 #include "ConstEcuabCanIf.hpp"
 #include "ConstEcuabCanTp.hpp"
 #include "ConstEcuabCryIf.hpp"
@@ -121,7 +121,7 @@ class Const_Type{
       ConstServicePduR_Type           ConstServicePduR;
       ConstMcalPort_Type           ConstMcalPort;
       ConstMcalPwm_Type            ConstMcalPwm;
-      ConstCommonARA_Type            ConstCommonARA;
+      ConstProjectARA_Type            ConstProjectARA;
       ConstServiceSecOC_Type          ConstServiceSecOC;
       ConstServiceSokFm_Type          ConstServiceSokFm;
       ConstMcalSpi_Type            ConstMcalSpi;

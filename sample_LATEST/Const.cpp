@@ -118,7 +118,7 @@
                ,  &ServicePduR                                                                                                \
                ,  &McalPort                                                                                                \
                ,  &McalPwm                                                                                                 \
-               ,  &CommonARA                                                                                                 \
+               ,  &ProjectARA                                                                                                 \
                ,  &ServiceSchM                                                                                                \
                ,  &ServiceSecOC                                                                                               \
                ,  &ServiceSokFm                                                                                               \
@@ -180,7 +180,7 @@
                ,  "ServicePduR"                                                                                               \
                ,  "McalPort"                                                                                               \
                ,  "McalPwm"                                                                                                \
-               ,  "CommonARA"                                                                                                \
+               ,  "ProjectARA"                                                                                                \
                ,  "ServiceSchM"                                                                                               \
                ,  "ServiceSecOC"                                                                                              \
                ,  "ServiceSokFm"                                                                                              \
@@ -259,7 +259,7 @@
                ,  &ServicePduR                                                                                                       \
                ,  &McalPort                                                                                                       \
                ,  &McalPwm                                                                                                        \
-               ,  &CommonARA                                                                                                        \
+               ,  &ProjectARA                                                                                                        \
                ,  &ServiceSecOC                                                                                                      \
                ,  &ServiceSokFm                                                                                                      \
                ,  &McalSpi                                                                                                        \
@@ -321,7 +321,7 @@
                ,  &(Const.ConstServicePduR)                                                                                          \
                ,  &(Const.ConstMcalPort)                                                                                          \
                ,  &(Const.ConstMcalPwm)                                                                                           \
-               ,  &(Const.ConstCommonARA)                                                                                           \
+               ,  &(Const.ConstProjectARA)                                                                                           \
                ,  &(Const.ConstServiceSecOC)                                                                                         \
                ,  &(Const.ConstServiceSokFm)                                                                                         \
                ,  &(Const.ConstMcalSpi)                                                                                           \
@@ -383,7 +383,7 @@
                ,  &(CfgGen_ServiceNvM.CfgServicePduR)                                                                                       \
                ,  &(CfgGen_ServiceNvM.CfgMcalPort)                                                                                       \
                ,  &(CfgGen_ServiceNvM.CfgMcalPwm)                                                                                        \
-               ,  &(CfgGen_ServiceNvM.CfgCommonARA)                                                                                        \
+               ,  &(CfgGen_ServiceNvM.CfgProjectARA)                                                                                        \
                ,  &(CfgGen_ServiceNvM.CfgServiceSecOC)                                                                                      \
                ,  &(CfgGen_ServiceNvM.CfgServiceSokFm)                                                                                      \
                ,  &(CfgGen_ServiceNvM.CfgMcalSpi)                                                                                        \
