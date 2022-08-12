@@ -12,8 +12,8 @@
 /******************************************************************************/
 /* #DEFINES                                                                   */
 /******************************************************************************/
-#define CONSTLINIF_AR_RELEASE_VERSION_MAJOR                                    4
-#define CONSTLINIF_AR_RELEASE_VERSION_MINOR                                    3
+#define CONSTECUABLINIF_AR_RELEASE_VERSION_MAJOR                                    4
+#define CONSTECUABLINIF_AR_RELEASE_VERSION_MINOR                                    3
 
 /******************************************************************************/
 /* MACROS                                                                     */

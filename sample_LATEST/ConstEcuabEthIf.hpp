@@ -12,8 +12,8 @@
 /******************************************************************************/
 /* #DEFINES                                                                   */
 /******************************************************************************/
-#define CONSTETHIF_AR_RELEASE_VERSION_MAJOR                                    4
-#define CONSTETHIF_AR_RELEASE_VERSION_MINOR                                    3
+#define CONSTECUABETHIF_AR_RELEASE_VERSION_MAJOR                                    4
+#define CONSTECUABETHIF_AR_RELEASE_VERSION_MINOR                                    3
 
 /******************************************************************************/
 /* MACROS                                                                     */

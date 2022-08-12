@@ -12,8 +12,8 @@
 /******************************************************************************/
 /* #DEFINES                                                                   */
 /******************************************************************************/
-#define CONSTFRNM_AR_RELEASE_VERSION_MAJOR                                     4
-#define CONSTFRNM_AR_RELEASE_VERSION_MINOR                                     3
+#define CONSTSERVICEFRNM_AR_RELEASE_VERSION_MAJOR                                     4
+#define CONSTSERVICEFRNM_AR_RELEASE_VERSION_MINOR                                     3
 
 /******************************************************************************/
 /* MACROS                                                                     */

@@ -12,8 +12,8 @@
 /******************************************************************************/
 /* #DEFINES                                                                   */
 /******************************************************************************/
-#define CONSTFR_AR_RELEASE_VERSION_MAJOR                                       4
-#define CONSTFR_AR_RELEASE_VERSION_MINOR                                       3
+#define CONSTMCALFR_AR_RELEASE_VERSION_MAJOR                                       4
+#define CONSTMCALFR_AR_RELEASE_VERSION_MINOR                                       3
 
 /******************************************************************************/
 /* MACROS                                                                     */

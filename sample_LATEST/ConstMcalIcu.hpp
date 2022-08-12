@@ -12,8 +12,8 @@
 /******************************************************************************/
 /* #DEFINES                                                                   */
 /******************************************************************************/
-#define CONSTICU_AR_RELEASE_VERSION_MAJOR                                      4
-#define CONSTICU_AR_RELEASE_VERSION_MINOR                                      3
+#define CONSTMCALICU_AR_RELEASE_VERSION_MAJOR                                      4
+#define CONSTMCALICU_AR_RELEASE_VERSION_MINOR                                      3
 
 /******************************************************************************/
 /* MACROS                                                                     */

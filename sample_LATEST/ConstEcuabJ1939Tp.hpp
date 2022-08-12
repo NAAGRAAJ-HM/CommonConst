@@ -12,8 +12,8 @@
 /******************************************************************************/
 /* #DEFINES                                                                   */
 /******************************************************************************/
-#define CONSTJ1939TP_AR_RELEASE_VERSION_MAJOR                                  4
-#define CONSTJ1939TP_AR_RELEASE_VERSION_MINOR                                  3
+#define CONSTECUABJ1939TP_AR_RELEASE_VERSION_MAJOR                                  4
+#define CONSTECUABJ1939TP_AR_RELEASE_VERSION_MINOR                                  3
 
 /******************************************************************************/
 /* MACROS                                                                     */

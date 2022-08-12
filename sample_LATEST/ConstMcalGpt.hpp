@@ -12,8 +12,8 @@
 /******************************************************************************/
 /* #DEFINES                                                                   */
 /******************************************************************************/
-#define CONSTGPT_AR_RELEASE_VERSION_MAJOR                                      4
-#define CONSTGPT_AR_RELEASE_VERSION_MINOR                                      3
+#define CONSTMCALGPT_AR_RELEASE_VERSION_MAJOR                                      4
+#define CONSTMCALGPT_AR_RELEASE_VERSION_MINOR                                      3
 
 /******************************************************************************/
 /* MACROS                                                                     */

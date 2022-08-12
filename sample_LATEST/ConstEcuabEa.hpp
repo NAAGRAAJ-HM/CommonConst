@@ -12,8 +12,8 @@
 /******************************************************************************/
 /* #DEFINES                                                                   */
 /******************************************************************************/
-#define CONSTEA_AR_RELEASE_VERSION_MAJOR                                       4
-#define CONSTEA_AR_RELEASE_VERSION_MINOR                                       3
+#define CONSTECUABEA_AR_RELEASE_VERSION_MAJOR                                       4
+#define CONSTECUABEA_AR_RELEASE_VERSION_MINOR                                       3
 
 /******************************************************************************/
 /* MACROS                                                                     */

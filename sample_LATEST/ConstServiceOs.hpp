@@ -15,18 +15,18 @@
 /******************************************************************************/
 /* #DEFINES                                                                   */
 /******************************************************************************/
-#define CONSTOS_AR_RELEASE_VERSION_MAJOR                                       4
-#define CONSTOS_AR_RELEASE_VERSION_MINOR                                       3
+#define CONSTSERVICEOS_AR_RELEASE_VERSION_MAJOR                                       4
+#define CONSTSERVICEOS_AR_RELEASE_VERSION_MINOR                                       3
 
 /******************************************************************************/
 /* MACROS                                                                     */
 /******************************************************************************/
-#if(CONSTOS_AR_RELEASE_VERSION_MAJOR != STD_AR_RELEASE_VERSION_MAJOR)
-   #error "Incompatible CONSTOS_AR_RELEASE_VERSION_MAJOR!"
+#if(CONSTSERVICEOS_AR_RELEASE_VERSION_MAJOR != STD_AR_RELEASE_VERSION_MAJOR)
+   #error "Incompatible CONSTSERVICEOS_AR_RELEASE_VERSION_MAJOR!"
 #endif
 
-#if(CONSTOS_AR_RELEASE_VERSION_MINOR != STD_AR_RELEASE_VERSION_MINOR)
-   #error "Incompatible CONSTOS_AR_RELEASE_VERSION_MINOR!"
+#if(CONSTSERVICEOS_AR_RELEASE_VERSION_MINOR != STD_AR_RELEASE_VERSION_MINOR)
+   #error "Incompatible CONSTSERVICEOS_AR_RELEASE_VERSION_MINOR!"
 #endif
 
 /******************************************************************************/

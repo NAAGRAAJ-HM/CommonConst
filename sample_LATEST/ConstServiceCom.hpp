@@ -12,8 +12,8 @@
 /******************************************************************************/
 /* #DEFINES                                                                   */
 /******************************************************************************/
-#define CONSTCOM_AR_RELEASE_VERSION_MAJOR                                      4
-#define CONSTCOM_AR_RELEASE_VERSION_MINOR                                      3
+#define CONSTSERVICECOM_AR_RELEASE_VERSION_MAJOR                                      4
+#define CONSTSERVICECOM_AR_RELEASE_VERSION_MINOR                                      3
 
 /******************************************************************************/
 /* MACROS                                                                     */

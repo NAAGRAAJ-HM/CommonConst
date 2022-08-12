@@ -12,8 +12,8 @@
 /******************************************************************************/
 /* #DEFINES                                                                   */
 /******************************************************************************/
-#define CONSTSPI_AR_RELEASE_VERSION_MAJOR                                      4
-#define CONSTSPI_AR_RELEASE_VERSION_MINOR                                      3
+#define CONSTMCALSPI_AR_RELEASE_VERSION_MAJOR                                      4
+#define CONSTMCALSPI_AR_RELEASE_VERSION_MINOR                                      3
 
 /******************************************************************************/
 /* MACROS                                                                     */

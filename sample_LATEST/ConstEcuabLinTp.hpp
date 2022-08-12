@@ -12,8 +12,8 @@
 /******************************************************************************/
 /* #DEFINES                                                                   */
 /******************************************************************************/
-#define CONSTLINTP_AR_RELEASE_VERSION_MAJOR                                    4
-#define CONSTLINTP_AR_RELEASE_VERSION_MINOR                                    3
+#define CONSTECUABLINTP_AR_RELEASE_VERSION_MAJOR                                    4
+#define CONSTECUABLINTP_AR_RELEASE_VERSION_MINOR                                    3
 
 /******************************************************************************/
 /* MACROS                                                                     */

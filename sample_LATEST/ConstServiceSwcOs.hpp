@@ -14,18 +14,18 @@
 /******************************************************************************/
 /* #DEFINES                                                                   */
 /******************************************************************************/
-#define CONSTSWCSERVICEOS_AR_RELEASE_VERSION_MAJOR                             4
-#define CONSTSWCSERVICEOS_AR_RELEASE_VERSION_MINOR                             3
+#define CONSTSERVICESWCOS_AR_RELEASE_VERSION_MAJOR                             4
+#define CONSTSERVICESWCOS_AR_RELEASE_VERSION_MINOR                             3
 
 /******************************************************************************/
 /* MACROS                                                                     */
 /******************************************************************************/
-#if(CONSTSWCSERVICEOS_AR_RELEASE_VERSION_MAJOR != STD_AR_RELEASE_VERSION_MAJOR)
-   #error "Incompatible CONSTSWCSERVICEOS_AR_RELEASE_VERSION_MAJOR!"
+#if(CONSTSERVICESWCOS_AR_RELEASE_VERSION_MAJOR != STD_AR_RELEASE_VERSION_MAJOR)
+   #error "Incompatible CONSTSERVICESWCOS_AR_RELEASE_VERSION_MAJOR!"
 #endif
 
-#if(CONSTSWCSERVICEOS_AR_RELEASE_VERSION_MINOR != STD_AR_RELEASE_VERSION_MINOR)
-   #error "Incompatible CONSTSWCSERVICEOS_AR_RELEASE_VERSION_MINOR!"
+#if(CONSTSERVICESWCOS_AR_RELEASE_VERSION_MINOR != STD_AR_RELEASE_VERSION_MINOR)
+   #error "Incompatible CONSTSERVICESWCOS_AR_RELEASE_VERSION_MINOR!"
 #endif
 
 /******************************************************************************/

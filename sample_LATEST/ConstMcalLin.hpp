@@ -12,8 +12,8 @@
 /******************************************************************************/
 /* #DEFINES                                                                   */
 /******************************************************************************/
-#define CONSTLIN_AR_RELEASE_VERSION_MAJOR                                      4
-#define CONSTLIN_AR_RELEASE_VERSION_MINOR                                      3
+#define CONSTMCALLIN_AR_RELEASE_VERSION_MAJOR                                      4
+#define CONSTMCALLIN_AR_RELEASE_VERSION_MINOR                                      3
 
 /******************************************************************************/
 /* MACROS                                                                     */

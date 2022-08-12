@@ -12,8 +12,8 @@
 /******************************************************************************/
 /* #DEFINES                                                                   */
 /******************************************************************************/
-#define CONSTCANTP_AR_RELEASE_VERSION_MAJOR                                    4
-#define CONSTCANTP_AR_RELEASE_VERSION_MINOR                                    3
+#define CONSTECUABCANTP_AR_RELEASE_VERSION_MAJOR                                    4
+#define CONSTECUABCANTP_AR_RELEASE_VERSION_MINOR                                    3
 
 /******************************************************************************/
 /* MACROS                                                                     */

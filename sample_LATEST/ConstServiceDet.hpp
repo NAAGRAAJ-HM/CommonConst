@@ -12,8 +12,8 @@
 /******************************************************************************/
 /* #DEFINES                                                                   */
 /******************************************************************************/
-#define CONSTDET_AR_RELEASE_VERSION_MAJOR                                      4
-#define CONSTDET_AR_RELEASE_VERSION_MINOR                                      3
+#define CONSTSERVICEDET_AR_RELEASE_VERSION_MAJOR                                      4
+#define CONSTSERVICEDET_AR_RELEASE_VERSION_MINOR                                      3
 
 /******************************************************************************/
 /* MACROS                                                                     */

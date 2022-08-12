@@ -12,8 +12,8 @@
 /******************************************************************************/
 /* #DEFINES                                                                   */
 /******************************************************************************/
-#define CONSTWDGM_AR_RELEASE_VERSION_MAJOR                                     4
-#define CONSTWDGM_AR_RELEASE_VERSION_MINOR                                     3
+#define CONSTSERVICEWDGM_AR_RELEASE_VERSION_MAJOR                                     4
+#define CONSTSERVICEWDGM_AR_RELEASE_VERSION_MINOR                                     3
 
 /******************************************************************************/
 /* MACROS                                                                     */

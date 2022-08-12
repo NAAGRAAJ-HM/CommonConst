@@ -12,8 +12,8 @@
 /******************************************************************************/
 /* #DEFINES                                                                   */
 /******************************************************************************/
-#define CONSTWDG_AR_RELEASE_VERSION_MAJOR                                      4
-#define CONSTWDG_AR_RELEASE_VERSION_MINOR                                      3
+#define CONSTMCALWDG_AR_RELEASE_VERSION_MAJOR                                      4
+#define CONSTMCALWDG_AR_RELEASE_VERSION_MINOR                                      3
 
 /******************************************************************************/
 /* MACROS                                                                     */

@@ -12,8 +12,8 @@
 /******************************************************************************/
 /* #DEFINES                                                                   */
 /******************************************************************************/
-#define CONSTCANNM_AR_RELEASE_VERSION_MAJOR                                    4
-#define CONSTCANNM_AR_RELEASE_VERSION_MINOR                                    3
+#define CONSTSERVICECANNM_AR_RELEASE_VERSION_MAJOR                                    4
+#define CONSTSERVICECANNM_AR_RELEASE_VERSION_MINOR                                    3
 
 /******************************************************************************/
 /* MACROS                                                                     */

@@ -12,8 +12,8 @@
 /******************************************************************************/
 /* #DEFINES                                                                   */
 /******************************************************************************/
-#define CONSTPWM_AR_RELEASE_VERSION_MAJOR                                      4
-#define CONSTPWM_AR_RELEASE_VERSION_MINOR                                      3
+#define CONSTMCALPWM_AR_RELEASE_VERSION_MAJOR                                      4
+#define CONSTMCALPWM_AR_RELEASE_VERSION_MINOR                                      3
 
 /******************************************************************************/
 /* MACROS                                                                     */

@@ -12,8 +12,8 @@
 /******************************************************************************/
 /* #DEFINES                                                                   */
 /******************************************************************************/
-#define CONSTBSWM_AR_RELEASE_VERSION_MAJOR                                     4
-#define CONSTBSWM_AR_RELEASE_VERSION_MINOR                                     3
+#define CONSTSERVICEBSWM_AR_RELEASE_VERSION_MAJOR                                     4
+#define CONSTSERVICEBSWM_AR_RELEASE_VERSION_MINOR                                     3
 
 /******************************************************************************/
 /* MACROS                                                                     */

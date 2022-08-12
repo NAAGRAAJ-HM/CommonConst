@@ -16,18 +16,18 @@
 /******************************************************************************/
 /* #DEFINES                                                                   */
 /******************************************************************************/
-#define CONSTECUM_AR_RELEASE_VERSION_MAJOR                                     4
-#define CONSTECUM_AR_RELEASE_VERSION_MINOR                                     3
+#define CONSTSERVICEECUM_AR_RELEASE_VERSION_MAJOR                                     4
+#define CONSTSERVICEECUM_AR_RELEASE_VERSION_MINOR                                     3
 
 /******************************************************************************/
 /* MACROS                                                                     */
 /******************************************************************************/
-#if(CONSTECUM_AR_RELEASE_VERSION_MAJOR != STD_AR_RELEASE_VERSION_MAJOR)
-   #error "Incompatible CFGECUM_AR_RELEASE_VERSION_MAJOR!"
+#if(CONSTSERVICEECUM_AR_RELEASE_VERSION_MAJOR != STD_AR_RELEASE_VERSION_MAJOR)
+   #error "Incompatible CFGSERVICEECUM_AR_RELEASE_VERSION_MAJOR!"
 #endif
 
-#if(CONSTECUM_AR_RELEASE_VERSION_MINOR != STD_AR_RELEASE_VERSION_MINOR)
-   #error "Incompatible CFGECUM_AR_RELEASE_VERSION_MINOR!"
+#if(CONSTSERVICEECUM_AR_RELEASE_VERSION_MINOR != STD_AR_RELEASE_VERSION_MINOR)
+   #error "Incompatible CFGSERVICEECUM_AR_RELEASE_VERSION_MINOR!"
 #endif
 
 /******************************************************************************/

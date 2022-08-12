@@ -20,19 +20,19 @@ using namespace std;
 /******************************************************************************/
 /* #DEFINES                                                                   */
 /******************************************************************************/
-#define CONSTDCM_AR_RELEASE_VERSION_MAJOR                                      4
-#define CONSTDCM_AR_RELEASE_VERSION_MINOR                                      3
+#define CONSTSERVICEDCM_AR_RELEASE_VERSION_MAJOR                                      4
+#define CONSTSERVICEDCM_AR_RELEASE_VERSION_MINOR                                      3
 #define ServiceDcm_SizeinfServiceDcmClients                                                 59
 
 /******************************************************************************/
 /* MACROS                                                                     */
 /******************************************************************************/
-#if(CONSTDCM_AR_RELEASE_VERSION_MAJOR != STD_AR_RELEASE_VERSION_MAJOR)
-   #error "Incompatible CONSTDCM_AR_RELEASE_VERSION_MAJOR!"
+#if(CONSTSERVICEDCM_AR_RELEASE_VERSION_MAJOR != STD_AR_RELEASE_VERSION_MAJOR)
+   #error "Incompatible CONSTSERVICEDCM_AR_RELEASE_VERSION_MAJOR!"
 #endif
 
-#if(CONSTDCM_AR_RELEASE_VERSION_MINOR != STD_AR_RELEASE_VERSION_MINOR)
-   #error "Incompatible CONSTDCM_AR_RELEASE_VERSION_MINOR!"
+#if(CONSTSERVICEDCM_AR_RELEASE_VERSION_MINOR != STD_AR_RELEASE_VERSION_MINOR)
+   #error "Incompatible CONSTSERVICEDCM_AR_RELEASE_VERSION_MINOR!"
 #endif
 
 /******************************************************************************/

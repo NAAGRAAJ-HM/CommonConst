@@ -12,8 +12,8 @@
 /******************************************************************************/
 /* #DEFINES                                                                   */
 /******************************************************************************/
-#define CONSTWDGIF_AR_RELEASE_VERSION_MAJOR                                    4
-#define CONSTWDGIF_AR_RELEASE_VERSION_MINOR                                    3
+#define CONSTECUABWDGIF_AR_RELEASE_VERSION_MAJOR                                    4
+#define CONSTECUABWDGIF_AR_RELEASE_VERSION_MINOR                                    3
 
 /******************************************************************************/
 /* MACROS                                                                     */

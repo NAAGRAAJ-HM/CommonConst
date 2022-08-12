@@ -12,8 +12,8 @@
 /******************************************************************************/
 /* #DEFINES                                                                   */
 /******************************************************************************/
-#define CONSTSECOC_AR_RELEASE_VERSION_MAJOR                                    4
-#define CONSTSECOC_AR_RELEASE_VERSION_MINOR                                    3
+#define CONSTSERVICESECOC_AR_RELEASE_VERSION_MAJOR                                    4
+#define CONSTSERVICESECOC_AR_RELEASE_VERSION_MINOR                                    3
 
 /******************************************************************************/
 /* MACROS                                                                     */

@@ -12,8 +12,8 @@
 /******************************************************************************/
 /* #DEFINES                                                                   */
 /******************************************************************************/
-#define CONSTPDUR_AR_RELEASE_VERSION_MAJOR                                     4
-#define CONSTPDUR_AR_RELEASE_VERSION_MINOR                                     3
+#define CONSTSERVICEPDUR_AR_RELEASE_VERSION_MAJOR                                     4
+#define CONSTSERVICEPDUR_AR_RELEASE_VERSION_MINOR                                     3
 
 /******************************************************************************/
 /* MACROS                                                                     */

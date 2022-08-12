@@ -12,8 +12,8 @@
 /******************************************************************************/
 /* #DEFINES                                                                   */
 /******************************************************************************/
-#define CONSTEEP_AR_RELEASE_VERSION_MAJOR                                      4
-#define CONSTEEP_AR_RELEASE_VERSION_MINOR                                      3
+#define CONSTMCALEEP_AR_RELEASE_VERSION_MAJOR                                      4
+#define CONSTMCALEEP_AR_RELEASE_VERSION_MINOR                                      3
 
 /******************************************************************************/
 /* MACROS                                                                     */

@@ -12,8 +12,8 @@
 /******************************************************************************/
 /* #DEFINES                                                                   */
 /******************************************************************************/
-#define CONSTSOKFM_AR_RELEASE_VERSION_MAJOR                                    4
-#define CONSTSOKFM_AR_RELEASE_VERSION_MINOR                                    3
+#define CONSTSERVICESOKFM_AR_RELEASE_VERSION_MAJOR                                    4
+#define CONSTSERVICESOKFM_AR_RELEASE_VERSION_MINOR                                    3
 
 /******************************************************************************/
 /* MACROS                                                                     */

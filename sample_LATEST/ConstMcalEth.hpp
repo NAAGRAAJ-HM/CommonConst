@@ -12,8 +12,8 @@
 /******************************************************************************/
 /* #DEFINES                                                                   */
 /******************************************************************************/
-#define CONSTETH_AR_RELEASE_VERSION_MAJOR                                      4
-#define CONSTETH_AR_RELEASE_VERSION_MINOR                                      3
+#define CONSTMCALETH_AR_RELEASE_VERSION_MAJOR                                      4
+#define CONSTMCALETH_AR_RELEASE_VERSION_MINOR                                      3
 
 /******************************************************************************/
 /* MACROS                                                                     */

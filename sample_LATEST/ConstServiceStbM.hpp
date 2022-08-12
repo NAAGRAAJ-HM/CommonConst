@@ -12,8 +12,8 @@
 /******************************************************************************/
 /* #DEFINES                                                                   */
 /******************************************************************************/
-#define CONSTSTBM_AR_RELEASE_VERSION_MAJOR                                     4
-#define CONSTSTBM_AR_RELEASE_VERSION_MINOR                                     3
+#define CONSTSERVICESTBM_AR_RELEASE_VERSION_MAJOR                                     4
+#define CONSTSERVICESTBM_AR_RELEASE_VERSION_MINOR                                     3
 
 /******************************************************************************/
 /* MACROS                                                                     */

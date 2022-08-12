@@ -12,8 +12,8 @@
 /******************************************************************************/
 /* #DEFINES                                                                   */
 /******************************************************************************/
-#define CONSTSWCAPPLFOC_AR_RELEASE_VERSION_MAJOR                               4
-#define CONSTSWCAPPLFOC_AR_RELEASE_VERSION_MINOR                               3
+#define CONSTAPPLSWCFOC_AR_RELEASE_VERSION_MAJOR                               4
+#define CONSTAPPLSWCFOC_AR_RELEASE_VERSION_MINOR                               3
 
 /******************************************************************************/
 /* MACROS                                                                     */

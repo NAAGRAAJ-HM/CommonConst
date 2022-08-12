@@ -15,8 +15,8 @@
 /******************************************************************************/
 /* #DEFINES                                                                   */
 /******************************************************************************/
-#define CONSTSWCSERVICEECUM_AR_RELEASE_VERSION_MAJOR                           4
-#define CONSTSWCSERVICEECUM_AR_RELEASE_VERSION_MINOR                           3
+#define CONSTSERVICESWCECUM_AR_RELEASE_VERSION_MAJOR                           4
+#define CONSTSERVICESWCECUM_AR_RELEASE_VERSION_MINOR                           3
 #define IndexServiceEcuMClient_ServiceBswM                                                  49
 #define IndexServiceEcuMClient_ServiceSchM                                                  50
 #define SizeDriverInitData_One                                                51
@@ -25,12 +25,12 @@
 /******************************************************************************/
 /* MACROS                                                                     */
 /******************************************************************************/
-#if(CONSTSWCSERVICEECUM_AR_RELEASE_VERSION_MAJOR != STD_AR_RELEASE_VERSION_MAJOR)
-   #error "Incompatible CONSTSWCSERVICEECUM_AR_RELEASE_VERSION_MAJOR!"
+#if(CONSTSERVICESWCECUM_AR_RELEASE_VERSION_MAJOR != STD_AR_RELEASE_VERSION_MAJOR)
+   #error "Incompatible CONSTSERVICESWCECUM_AR_RELEASE_VERSION_MAJOR!"
 #endif
 
-#if(CONSTSWCSERVICEECUM_AR_RELEASE_VERSION_MINOR != STD_AR_RELEASE_VERSION_MINOR)
-   #error "Incompatible CONSTSWCSERVICEECUM_AR_RELEASE_VERSION_MINOR!"
+#if(CONSTSERVICESWCECUM_AR_RELEASE_VERSION_MINOR != STD_AR_RELEASE_VERSION_MINOR)
+   #error "Incompatible CONSTSERVICESWCECUM_AR_RELEASE_VERSION_MINOR!"
 #endif
 
 /******************************************************************************/

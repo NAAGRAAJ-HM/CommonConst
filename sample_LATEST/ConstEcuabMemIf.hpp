@@ -12,8 +12,8 @@
 /******************************************************************************/
 /* #DEFINES                                                                   */
 /******************************************************************************/
-#define CONSTMEMIF_AR_RELEASE_VERSION_MAJOR                                    4
-#define CONSTMEMIF_AR_RELEASE_VERSION_MINOR                                    3
+#define CONSTECUABMEMIF_AR_RELEASE_VERSION_MAJOR                                    4
+#define CONSTECUABMEMIF_AR_RELEASE_VERSION_MINOR                                    3
 
 /******************************************************************************/
 /* MACROS                                                                     */

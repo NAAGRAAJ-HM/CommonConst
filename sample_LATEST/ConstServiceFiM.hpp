@@ -12,8 +12,8 @@
 /******************************************************************************/
 /* #DEFINES                                                                   */
 /******************************************************************************/
-#define CONSTFIM_AR_RELEASE_VERSION_MAJOR                                      4
-#define CONSTFIM_AR_RELEASE_VERSION_MINOR                                      3
+#define CONSTSERVICEFIM_AR_RELEASE_VERSION_MAJOR                                      4
+#define CONSTSERVICEFIM_AR_RELEASE_VERSION_MINOR                                      3
 
 /******************************************************************************/
 /* MACROS                                                                     */

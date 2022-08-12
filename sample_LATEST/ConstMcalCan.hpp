@@ -12,8 +12,8 @@
 /******************************************************************************/
 /* #DEFINES                                                                   */
 /******************************************************************************/
-#define CONSTCAN_AR_RELEASE_VERSION_MAJOR                                      4
-#define CONSTCAN_AR_RELEASE_VERSION_MINOR                                      3
+#define CONSTMCALCAN_AR_RELEASE_VERSION_MAJOR                                      4
+#define CONSTMCALCAN_AR_RELEASE_VERSION_MINOR                                      3
 
 /******************************************************************************/
 /* MACROS                                                                     */

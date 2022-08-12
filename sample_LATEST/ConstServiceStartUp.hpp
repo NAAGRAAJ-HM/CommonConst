@@ -12,8 +12,8 @@
 /******************************************************************************/
 /* #DEFINES                                                                   */
 /******************************************************************************/
-#define CONSTSTARTUP_AR_RELEASE_VERSION_MAJOR                                  4
-#define CONSTSTARTUP_AR_RELEASE_VERSION_MINOR                                  3
+#define CONSTSERVICESTARTUP_AR_RELEASE_VERSION_MAJOR                                  4
+#define CONSTSERVICESTARTUP_AR_RELEASE_VERSION_MINOR                                  3
 
 /******************************************************************************/
 /* MACROS                                                                     */
