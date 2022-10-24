@@ -1,6 +1,6 @@
 #pragma once
 /******************************************************************************/
-/* File   : ConstMcalFls.hpp                                                  */
+/* File   : ConstApplSwcFoc.hpp                                               */
 /* Author : NAGARAJA HM (c) since 1982. All rights reserved.                  */
 /******************************************************************************/
 
@@ -12,8 +12,8 @@
 /******************************************************************************/
 /* #DEFINES                                                                   */
 /******************************************************************************/
-#define CONSTMCALFLS_AR_RELEASE_VERSION_MAJOR                                  4
-#define CONSTMCALFLS_AR_RELEASE_VERSION_MINOR                                  3
+#define CONSTAPPLSWCFOC_AR_RELEASE_VERSION_MAJOR                               4
+#define CONSTAPPLSWCFOC_AR_RELEASE_VERSION_MINOR                               3
 
 /******************************************************************************/
 /* MACROS                                                                     */
@@ -22,7 +22,7 @@
 /******************************************************************************/
 /* TYPEDEFS                                                                   */
 /******************************************************************************/
-class ConstMcalFls_Type:
+class ConstApplSwcFoc_Type:
       public ConstModule_TypeAbstract
 {
 /******************************************************************************/
