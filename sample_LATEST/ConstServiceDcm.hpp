@@ -45,10 +45,10 @@ class ConstServiceDcm_Type:
 /******************************************************************************/
 /* CONSTS                                                                     */
 /******************************************************************************/
-      uint8         u8SizeinfServiceDcmClients;
+      uint8                u8SizeinfServiceDcmClients;
       infServiceDcmClient* aptrServiceDcmClients[ServiceDcm_SizeinfServiceDcmClients];
 #if(STD_ON == _ReSIM)
-      string        astrServiceDcmClientNames[ServiceDcm_SizeinfServiceDcmClients];
+      string               astrServiceDcmClientNames[ServiceDcm_SizeinfServiceDcmClients];
 #else
 #endif
 };
