@@ -195,61 +195,61 @@
          ,  {                                                                                                                  \
                   &McalAdc                                                                                                     \
                ,  &McalCan                                                                                                     \
+               ,  &McalCry                                                                                                     \
+               ,  &McalDio                                                                                                     \
+               ,  &McalEep                                                                                                     \
+               ,  &McalEth                                                                                                     \
+/*             ,  &McalFls*/                                                                                                   \
+               ,  &McalFr                                                                                                      \
+               ,  &McalGpt                                                                                                     \
+               ,  &McalIcu                                                                                                     \
+               ,  &McalLin                                                                                                     \
+               ,  &McalMcu                                                                                                     \
+               ,  &McalOcu                                                                                                     \
+               ,  &McalPort                                                                                                    \
+               ,  &McalPwm                                                                                                     \
+               ,  &McalSpi                                                                                                     \
+               ,  &McalWdg                                                                                                     \
                ,  &EcuabCanIf                                                                                                  \
+               ,  &EcuabCanTp                                                                                                  \
+               ,  &EcuabCryIf                                                                                                  \
+               ,  &EcuabEa                                                                                                     \
+               ,  &EcuabEthIf                                                                                                  \
+/*             ,  &EcuabFee*/                                                                                                  \
+               ,  &EcuabFrIf                                                                                                   \
+               ,  &EcuabFrTp                                                                                                   \
+               ,  &EcuabJ1939Tp                                                                                                \
+               ,  &EcuabLinIf                                                                                                  \
+               ,  &EcuabLinTp                                                                                                  \
+/*             ,  &EcuabMemIf*/                                                                                                \
+               ,  &EcuabWdgIf                                                                                                  \
                ,  &ServiceCanNm                                                                                                \
                ,  &ServiceCanSm                                                                                                \
-               ,  &EcuabCanTp                                                                                                  \
                ,  &ServiceCom                                                                                                  \
                ,  &ServiceComM                                                                                                 \
-               ,  &McalCry                                                                                                     \
-               ,  &EcuabCryIf                                                                                                  \
                ,  &ServiceCsm                                                                                                  \
                ,  &ServiceDcm                                                                                                  \
 /*             ,  &ServiceDem*/                                                                                                \
 /*             ,  &ServiceDet*/                                                                                                \
-               ,  &McalDio                                                                                                     \
                ,  &ServiceDlt                                                                                                  \
-               ,  &EcuabEa                                                                                                     \
 /*             ,  &ServiceEcuM*/                                                                                               \
-               ,  &McalEep                                                                                                     \
-               ,  &McalEth                                                                                                     \
-               ,  &EcuabEthIf                                                                                                  \
-/*             ,  &EcuabFee*/                                                                                                  \
                ,  &ServiceFiM                                                                                                  \
-/*             ,  &McalFls*/                                                                                                   \
-               ,  &McalFr                                                                                                      \
-               ,  &EcuabFrIf                                                                                                   \
                ,  &ServiceFrNm                                                                                                 \
-               ,  &EcuabFrTp                                                                                                   \
-               ,  &McalGpt                                                                                                     \
-               ,  &McalIcu                                                                                                     \
                ,  &ServiceIpduM                                                                                                \
-               ,  &EcuabJ1939Tp                                                                                                \
-               ,  &McalLin                                                                                                     \
-               ,  &EcuabLinIf                                                                                                  \
-               ,  &EcuabLinTp                                                                                                  \
-               ,  &McalMcu                                                                                                     \
-/*             ,  &EcuabMemIf*/                                                                                                \
                ,  &ServiceNm                                                                                                   \
 /*             ,  &ServiceNvM*/                                                                                                \
-               ,  &McalOcu                                                                                                     \
                ,  &ServiceOs                                                                                                   \
                ,  &ServicePduR                                                                                                 \
-               ,  &McalPort                                                                                                    \
-               ,  &McalPwm                                                                                                     \
-               ,  &ProjectARA                                                                                                  \
                ,  &ServiceSecOC                                                                                                \
                ,  &ServiceSokFm                                                                                                \
-               ,  &McalSpi                                                                                                     \
                ,  &ServiceStartUp                                                                                              \
                ,  &ServiceStbM                                                                                                 \
-               ,  &ApplSwcFoc                                                                                                  \
 /*             ,  &ServiceSwcEcuM*/                                                                                            \
                ,  &ServiceSwcOs                                                                                                \
                ,  &ServiceVkms                                                                                                 \
-               ,  &McalWdg                                                                                                     \
-               ,  &EcuabWdgIf                                                                                                  \
                ,  &ServiceWdgM                                                                                                 \
+               ,  &ProjectARA                                                                                                  \
+               ,  &ApplSwcFoc                                                                                                  \
                                                                                                                                \
                ,  &ServiceBswM                                                                                                 \
                ,  &ServiceSchM                                                                                                 \
@@ -257,61 +257,61 @@
          ,  {                                                                                                                  \
                   &(Const.ConstMcalAdc)                                                                                        \
                ,  &(Const.ConstMcalCan)                                                                                        \
+               ,  &(Const.ConstMcalCry)                                                                                        \
+               ,  &(Const.ConstMcalDio)                                                                                        \
+               ,  &(Const.ConstMcalEep)                                                                                        \
+               ,  &(Const.ConstMcalEth)                                                                                        \
+/*             ,  &(Const.ConstMcalFls)*/                                                                                      \
+               ,  &(Const.ConstMcalFr)                                                                                         \
+               ,  &(Const.ConstMcalGpt)                                                                                        \
+               ,  &(Const.ConstMcalIcu)                                                                                        \
+               ,  &(Const.ConstMcalLin)                                                                                        \
+               ,  &(Const.ConstMcalMcu)                                                                                        \
+               ,  &(Const.ConstMcalOcu)                                                                                        \
+               ,  &(Const.ConstMcalPort)                                                                                       \
+               ,  &(Const.ConstMcalPwm)                                                                                        \
+               ,  &(Const.ConstMcalSpi)                                                                                        \
+               ,  &(Const.ConstMcalWdg)                                                                                        \
                ,  &(Const.ConstEcuabCanIf)                                                                                     \
+               ,  &(Const.ConstEcuabCanTp)                                                                                     \
+               ,  &(Const.ConstEcuabCryIf)                                                                                     \
+               ,  &(Const.ConstEcuabEa)                                                                                        \
+               ,  &(Const.ConstEcuabEthIf)                                                                                     \
+/*             ,  &(Const.ConstEcuabFee)*/                                                                                     \
+               ,  &(Const.ConstEcuabFrIf)                                                                                      \
+               ,  &(Const.ConstEcuabFrTp)                                                                                      \
+               ,  &(Const.ConstEcuabJ1939Tp)                                                                                   \
+               ,  &(Const.ConstEcuabLinIf)                                                                                     \
+               ,  &(Const.ConstEcuabLinTp)                                                                                     \
+/*             ,  &(Const.ConstEcuabMemIf)*/                                                                                   \
+               ,  &(Const.ConstEcuabWdgIf)                                                                                     \
                ,  &(Const.ConstServiceCanNm)                                                                                   \
                ,  &(Const.ConstServiceCanSm)                                                                                   \
-               ,  &(Const.ConstEcuabCanTp)                                                                                     \
                ,  &(Const.ConstServiceCom)                                                                                     \
                ,  &(Const.ConstServiceComM)                                                                                    \
-               ,  &(Const.ConstMcalCry)                                                                                        \
-               ,  &(Const.ConstEcuabCryIf)                                                                                     \
                ,  &(Const.ConstServiceCsm)                                                                                     \
                ,  &(Const.ConstServiceDcm)                                                                                     \
 /*             ,  &(Const.ConstServiceDem)*/                                                                                   \
 /*             ,  &(Const.ConstServiceDet)*/                                                                                   \
-               ,  &(Const.ConstMcalDio)                                                                                        \
                ,  &(Const.ConstServiceDlt)                                                                                     \
-               ,  &(Const.ConstEcuabEa)                                                                                        \
 /*             ,  &(Const.ConstServiceEcuM)*/                                                                                  \
-               ,  &(Const.ConstMcalEep)                                                                                        \
-               ,  &(Const.ConstMcalEth)                                                                                        \
-               ,  &(Const.ConstEcuabEthIf)                                                                                     \
-/*             ,  &(Const.ConstEcuabFee)*/                                                                                     \
                ,  &(Const.ConstServiceFiM)                                                                                     \
-/*             ,  &(Const.ConstMcalFls)*/                                                                                      \
-               ,  &(Const.ConstMcalFr)                                                                                         \
-               ,  &(Const.ConstEcuabFrIf)                                                                                      \
                ,  &(Const.ConstServiceFrNm)                                                                                    \
-               ,  &(Const.ConstEcuabFrTp)                                                                                      \
-               ,  &(Const.ConstMcalGpt)                                                                                        \
-               ,  &(Const.ConstMcalIcu)                                                                                        \
                ,  &(Const.ConstServiceIpduM)                                                                                   \
-               ,  &(Const.ConstEcuabJ1939Tp)                                                                                   \
-               ,  &(Const.ConstMcalLin)                                                                                        \
-               ,  &(Const.ConstEcuabLinIf)                                                                                     \
-               ,  &(Const.ConstEcuabLinTp)                                                                                     \
-               ,  &(Const.ConstMcalMcu)                                                                                        \
-/*             ,  &(Const.ConstEcuabMemIf)*/                                                                                   \
                ,  &(Const.ConstServiceNm)                                                                                      \
 /*             ,  &(Const.ConstServiceNvM)*/                                                                                   \
-               ,  &(Const.ConstMcalOcu)                                                                                        \
                ,  &(Const.ConstServiceOs)                                                                                      \
                ,  &(Const.ConstServicePduR)                                                                                    \
-               ,  &(Const.ConstMcalPort)                                                                                       \
-               ,  &(Const.ConstMcalPwm)                                                                                        \
-               ,  &(Const.ConstProjectARA)                                                                                     \
                ,  &(Const.ConstServiceSecOC)                                                                                   \
                ,  &(Const.ConstServiceSokFm)                                                                                   \
-               ,  &(Const.ConstMcalSpi)                                                                                        \
                ,  &(Const.ConstServiceStartUp)                                                                                 \
                ,  &(Const.ConstServiceStbM)                                                                                    \
-               ,  &(Const.ConstApplSwcFoc)                                                                                     \
 /*             ,  &(Const.ConstServiceSwcEcuM)*/                                                                               \
                ,  &(Const.ConstServiceSwcOs)                                                                                   \
                ,  &(Const.ConstServiceVkms)                                                                                    \
-               ,  &(Const.ConstMcalWdg)                                                                                        \
-               ,  &(Const.ConstEcuabWdgIf)                                                                                     \
                ,  &(Const.ConstServiceWdgM)                                                                                    \
+               ,  &(Const.ConstProjectARA)                                                                                     \
+               ,  &(Const.ConstApplSwcFoc)                                                                                     \
                                                                                                                                \
                ,  &(Const.ConstServiceBswM)                                                                                    \
                ,  &(Const.ConstServiceSchM)                                                                                    \
@@ -319,61 +319,61 @@
          ,  {                                                                                                                  \
                   &(CfgGen_ServiceNvM.CfgMcalAdc)                                                                              \
                ,  &(CfgGen_ServiceNvM.CfgMcalCan)                                                                              \
+               ,  &(CfgGen_ServiceNvM.CfgMcalCry)                                                                              \
+               ,  &(CfgGen_ServiceNvM.CfgMcalDio)                                                                              \
+               ,  &(CfgGen_ServiceNvM.CfgMcalEep)                                                                              \
+               ,  &(CfgGen_ServiceNvM.CfgMcalEth)                                                                              \
+/*             ,  &(CfgGen_ServiceNvM.CfgMcalFls)*/                                                                            \
+               ,  &(CfgGen_ServiceNvM.CfgMcalFr)                                                                               \
+               ,  &(CfgGen_ServiceNvM.CfgMcalGpt)                                                                              \
+               ,  &(CfgGen_ServiceNvM.CfgMcalIcu)                                                                              \
+               ,  &(CfgGen_ServiceNvM.CfgMcalLin)                                                                              \
+               ,  &(CfgGen_ServiceNvM.CfgMcalMcu)                                                                              \
+               ,  &(CfgGen_ServiceNvM.CfgMcalOcu)                                                                              \
+               ,  &(CfgGen_ServiceNvM.CfgMcalPort)                                                                             \
+               ,  &(CfgGen_ServiceNvM.CfgMcalPwm)                                                                              \
+               ,  &(CfgGen_ServiceNvM.CfgMcalSpi)                                                                              \
+               ,  &(CfgGen_ServiceNvM.CfgMcalWdg)                                                                              \
                ,  &(CfgGen_ServiceNvM.CfgEcuabCanIf)                                                                           \
+               ,  &(CfgGen_ServiceNvM.CfgEcuabCanTp)                                                                           \
+               ,  &(CfgGen_ServiceNvM.CfgEcuabCryIf)                                                                           \
+               ,  &(CfgGen_ServiceNvM.CfgEcuabEa)                                                                              \
+               ,  &(CfgGen_ServiceNvM.CfgEcuabEthIf)                                                                           \
+/*             ,  &(CfgGen_ServiceNvM.CfgEcuabFee)*/                                                                           \
+               ,  &(CfgGen_ServiceNvM.CfgEcuabFrIf)                                                                            \
+               ,  &(CfgGen_ServiceNvM.CfgEcuabFrTp)                                                                            \
+               ,  &(CfgGen_ServiceNvM.CfgEcuabJ1939Tp)                                                                         \
+               ,  &(CfgGen_ServiceNvM.CfgEcuabLinIf)                                                                           \
+               ,  &(CfgGen_ServiceNvM.CfgEcuabLinTp)                                                                           \
+/*             ,  &(CfgGen_ServiceNvM.CfgEcuabMemIf)*/                                                                         \
+               ,  &(CfgGen_ServiceNvM.CfgEcuabWdgIf)                                                                           \
                ,  &(CfgGen_ServiceNvM.CfgServiceCanNm)                                                                         \
                ,  &(CfgGen_ServiceNvM.CfgServiceCanSm)                                                                         \
-               ,  &(CfgGen_ServiceNvM.CfgEcuabCanTp)                                                                           \
                ,  &(CfgGen_ServiceNvM.CfgServiceCom)                                                                           \
                ,  &(CfgGen_ServiceNvM.CfgServiceComM)                                                                          \
-               ,  &(CfgGen_ServiceNvM.CfgMcalCry)                                                                              \
-               ,  &(CfgGen_ServiceNvM.CfgEcuabCryIf)                                                                           \
                ,  &(CfgGen_ServiceNvM.CfgServiceCsm)                                                                           \
                ,  &(CfgGen_ServiceNvM.CfgServiceDcm)                                                                           \
 /*             ,  &(CfgGen_ServiceNvM.CfgServiceDem)*/                                                                         \
 /*             ,  &(CfgGen_ServiceNvM.CfgServiceDet)*/                                                                         \
-               ,  &(CfgGen_ServiceNvM.CfgMcalDio)                                                                              \
                ,  &(CfgGen_ServiceNvM.CfgServiceDlt)                                                                           \
-               ,  &(CfgGen_ServiceNvM.CfgEcuabEa)                                                                              \
 /*             ,  &(CfgGen_ServiceNvM.CfgServiceEcuM)*/                                                                        \
-               ,  &(CfgGen_ServiceNvM.CfgMcalEep)                                                                              \
-               ,  &(CfgGen_ServiceNvM.CfgMcalEth)                                                                              \
-               ,  &(CfgGen_ServiceNvM.CfgEcuabEthIf)                                                                           \
-/*             ,  &(CfgGen_ServiceNvM.CfgEcuabFee)*/                                                                           \
                ,  &(CfgGen_ServiceNvM.CfgServiceFiM)                                                                           \
-/*             ,  &(CfgGen_ServiceNvM.CfgMcalFls)*/                                                                            \
-               ,  &(CfgGen_ServiceNvM.CfgMcalFr)                                                                               \
-               ,  &(CfgGen_ServiceNvM.CfgEcuabFrIf)                                                                            \
                ,  &(CfgGen_ServiceNvM.CfgServiceFrNm)                                                                          \
-               ,  &(CfgGen_ServiceNvM.CfgEcuabFrTp)                                                                            \
-               ,  &(CfgGen_ServiceNvM.CfgMcalGpt)                                                                              \
-               ,  &(CfgGen_ServiceNvM.CfgMcalIcu)                                                                              \
                ,  &(CfgGen_ServiceNvM.CfgServiceIpduM)                                                                         \
-               ,  &(CfgGen_ServiceNvM.CfgEcuabJ1939Tp)                                                                         \
-               ,  &(CfgGen_ServiceNvM.CfgMcalLin)                                                                              \
-               ,  &(CfgGen_ServiceNvM.CfgEcuabLinIf)                                                                           \
-               ,  &(CfgGen_ServiceNvM.CfgEcuabLinTp)                                                                           \
-               ,  &(CfgGen_ServiceNvM.CfgMcalMcu)                                                                              \
-/*             ,  &(CfgGen_ServiceNvM.CfgEcuabMemIf)*/                                                                         \
                ,  &(CfgGen_ServiceNvM.CfgServiceNm)                                                                            \
 /*             ,  &(CfgGen_ServiceNvM.CfgServiceNvM)*/                                                                         \
-               ,  &(CfgGen_ServiceNvM.CfgMcalOcu)                                                                              \
                ,  &(CfgGen_ServiceNvM.CfgServiceOs)                                                                            \
                ,  &(CfgGen_ServiceNvM.CfgServicePduR)                                                                          \
-               ,  &(CfgGen_ServiceNvM.CfgMcalPort)                                                                             \
-               ,  &(CfgGen_ServiceNvM.CfgMcalPwm)                                                                              \
-               ,  &(CfgGen_ServiceNvM.CfgProjectARA)                                                                           \
                ,  &(CfgGen_ServiceNvM.CfgServiceSecOC)                                                                         \
                ,  &(CfgGen_ServiceNvM.CfgServiceSokFm)                                                                         \
-               ,  &(CfgGen_ServiceNvM.CfgMcalSpi)                                                                              \
                ,  &(CfgGen_ServiceNvM.CfgServiceStartUp)                                                                       \
                ,  &(CfgGen_ServiceNvM.CfgServiceStbM)                                                                          \
-               ,  &(CfgGen_ServiceNvM.CfgApplSwcFoc)                                                                           \
 /*             ,  &(CfgGen_ServiceNvM.CfgServiceSwcEcuM)*/                                                                     \
                ,  &(CfgGen_ServiceNvM.CfgServiceSwcOs)                                                                         \
                ,  &(CfgGen_ServiceNvM.CfgServiceVkms)                                                                          \
-               ,  &(CfgGen_ServiceNvM.CfgMcalWdg)                                                                              \
-               ,  &(CfgGen_ServiceNvM.CfgEcuabWdgIf)                                                                           \
                ,  &(CfgGen_ServiceNvM.CfgServiceWdgM)                                                                          \
+               ,  &(CfgGen_ServiceNvM.CfgProjectARA)                                                                           \
+               ,  &(CfgGen_ServiceNvM.CfgApplSwcFoc)                                                                           \
                                                                                                                                \
                ,  &(CfgGen_ServiceNvM.CfgServiceBswM)                                                                          \
                ,  &(CfgGen_ServiceNvM.CfgServiceSchM)                                                                          \
