@@ -1,6 +1,6 @@
 #pragma once
 /******************************************************************************/
-/* File   : ConstServiceSchM.hpp                                              */
+/* File   : ConstServiceSwcIoHwAb.hpp                                         */
 /* Author : NAGARAJA HM (c) since 1982. All rights reserved.                  */
 /******************************************************************************/
 
@@ -9,41 +9,44 @@
 /******************************************************************************/
 #include "ConstModule.hpp"
 
-#include "infServiceSchMClient.hpp"
+/*
+#include "infMcalMcu_ServiceSwcIoHwAb.hpp"
+#include "infServiceOs_ServiceSwcIoHwAb.hpp"
+#include "infServiceSwcEcuM_ServiceSwcIoHwAb.hpp"
+*/
 
 /******************************************************************************/
 /* #DEFINES                                                                   */
 /******************************************************************************/
-#define CONSTSERVICESCHM_AR_RELEASE_VERSION_MAJOR                              4
-#define CONSTSERVICESCHM_AR_RELEASE_VERSION_MINOR                              3
-#define ServiceSchM_SizeServiceSchMClients_1ms                                 5
-#define ServiceSchM_SizeServiceSchMClients_25ms                                3
+#define CONSTSERVICESWCIOHWAB_AR_RELEASE_VERSION_MAJOR                         4
+#define CONSTSERVICESWCIOHWAB_AR_RELEASE_VERSION_MINOR                         3
 
 /******************************************************************************/
 /* MACROS                                                                     */
 /******************************************************************************/
-#if(CONSTSERVICESCHM_AR_RELEASE_VERSION_MAJOR != STD_AR_RELEASE_VERSION_MAJOR)
-   #error "Incompatible CONSTSERVICESCHM_AR_RELEASE_VERSION_MAJOR!"
+#if(CONSTSERVICESWCIOHWAB_AR_RELEASE_VERSION_MAJOR != STD_AR_RELEASE_VERSION_MAJOR)
+   #error "Incompatible CFGSERVICESWCIOHWAB_AR_RELEASE_VERSION_MAJOR!"
 #endif
 
-#if(CONSTSERVICESCHM_AR_RELEASE_VERSION_MINOR != STD_AR_RELEASE_VERSION_MINOR)
-   #error "Incompatible CONSTSERVICESCHM_AR_RELEASE_VERSION_MINOR!"
+#if(CONSTSERVICESWCIOHWAB_AR_RELEASE_VERSION_MINOR != STD_AR_RELEASE_VERSION_MINOR)
+   #error "Incompatible CFGSERVICESWCIOHWAB_AR_RELEASE_VERSION_MINOR!"
 #endif
 
 /******************************************************************************/
 /* TYPEDEFS                                                                   */
 /******************************************************************************/
-class ConstServiceSchM_Type:
+class ConstServiceSwcIoHwAb_Type:
       public ConstModule_TypeAbstract
 {
    public:
 /******************************************************************************/
 /* CONSTS                                                                     */
 /******************************************************************************/
-      uint8                 u8SizeServiceSchMClients_1ms;
-      infServiceSchMClient* aptrServiceSchMClients_1ms[ServiceSchM_SizeServiceSchMClients_1ms];
-      uint8                 u8SizeServiceSchMClients_25ms;
-      infServiceSchMClient* aptrServiceSchMClients_25ms[ServiceSchM_SizeServiceSchMClients_25ms];
+/*
+      infMcalMcu_ServiceSwcIoHwAb*        ptrinfMcalMcu_ServiceSwcIoHwAb;
+      infServiceOs_ServiceSwcIoHwAb*      ptrinfServiceOs_ServiceSwcIoHwAb;
+      infServiceSwcEcuM_ServiceSwcIoHwAb* ptrinfServiceSwcEcuM_ServiceSwcIoHwAb;
+*/
 };
 
 /******************************************************************************/
