@@ -187,6 +187,8 @@
          ,  ServiceSchM_SizeServiceSchMClients_25ms                                                                            \
          ,  {                                                                                                                  \
                   &McalWdg                                                                                                     \
+               ,  &McalAdc                                                                                                     \
+               ,  &ServiceSwcIoHwAb                                                                                            \
                ,  &ApplSwcFoc                                                                                                  \
                ,  &McalGpt                                                                                                     \
             }                                                                                                                  \

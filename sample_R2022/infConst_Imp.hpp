@@ -35,6 +35,7 @@
 #include "ServiceStartUp.hpp"
 #include "ServiceStbM.hpp"
 #include "ServiceSwcEcuM.hpp"
+#include "ServiceSwcIoHwAb.hpp"
 #include "ServiceSwcOs.hpp"
 #include "ServiceVkms.hpp"
 #include "ServiceWdgM.hpp"

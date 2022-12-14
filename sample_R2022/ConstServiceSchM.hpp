@@ -17,7 +17,7 @@
 #define CONSTSERVICESCHM_AR_RELEASE_VERSION_MAJOR                              4
 #define CONSTSERVICESCHM_AR_RELEASE_VERSION_MINOR                              3
 #define ServiceSchM_SizeServiceSchMClients_1ms                                 5
-#define ServiceSchM_SizeServiceSchMClients_25ms                                3
+#define ServiceSchM_SizeServiceSchMClients_25ms                                5
 
 /******************************************************************************/
 /* MACROS                                                                     */
