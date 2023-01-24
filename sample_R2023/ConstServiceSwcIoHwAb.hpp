@@ -21,6 +21,9 @@
 #define CONSTSERVICESWCIOHWAB_AR_RELEASE_VERSION_MAJOR                         4
 #define CONSTSERVICESWCIOHWAB_AR_RELEASE_VERSION_MINOR                         3
 
+#define Const_DefaultInit_ConstServiceSwcIoHwAb                                                                                    \
+   ,  {CONSTSERVICESWCIOHWAB_AR_RELEASE_VERSION_MAJOR, CONSTSERVICESWCIOHWAB_AR_RELEASE_VERSION_MINOR, 0x00,0xFF,0x01,'0','1','0'} \
+
 /******************************************************************************/
 /* MACROS                                                                     */
 /******************************************************************************/
@@ -38,11 +41,11 @@
 class ConstServiceSwcIoHwAb_Type:
       public ConstModule_TypeAbstract
 {
-   public:
 /******************************************************************************/
 /* CONSTS                                                                     */
 /******************************************************************************/
 /*
+   public:
       infMcalMcu_ServiceSwcIoHwAb*        ptrinfMcalMcu_ServiceSwcIoHwAb;
       infServiceOs_ServiceSwcIoHwAb*      ptrinfServiceOs_ServiceSwcIoHwAb;
       infServiceSwcEcuM_ServiceSwcIoHwAb* ptrinfServiceSwcEcuM_ServiceSwcIoHwAb;

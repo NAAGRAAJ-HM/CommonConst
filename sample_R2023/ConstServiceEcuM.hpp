@@ -19,6 +19,14 @@
 #define CONSTSERVICEECUM_AR_RELEASE_VERSION_MAJOR                              4
 #define CONSTSERVICEECUM_AR_RELEASE_VERSION_MINOR                              3
 
+#define Const_DefaultInit_ConstServiceEcuM                                                                                     \
+   ,  {                                                                                                                        \
+            {CONSTSERVICEECUM_AR_RELEASE_VERSION_MAJOR, CONSTSERVICEECUM_AR_RELEASE_VERSION_MINOR, 0x00,0xFF,0x01,'0','1','0'} \
+         ,  &McalMcu                                                                                                           \
+         ,  &ServiceOs                                                                                                         \
+         ,  &ServiceSwcEcuM                                                                                                    \
+      }                                                                                                                        \
+
 /******************************************************************************/
 /* MACROS                                                                     */
 /******************************************************************************/
@@ -36,12 +44,12 @@
 class ConstServiceEcuM_Type:
       public ConstModule_TypeAbstract
 {
-   public:
 /******************************************************************************/
 /* CONSTS                                                                     */
 /******************************************************************************/
-      infMcalMcu_ServiceEcuM*            ptrinfMcalMcu_ServiceEcuM;
-      infServiceOs_ServiceEcuM*             ptrinfServiceOs_ServiceEcuM;
+   public:
+      infMcalMcu_ServiceEcuM*        ptrinfMcalMcu_ServiceEcuM;
+      infServiceOs_ServiceEcuM*      ptrinfServiceOs_ServiceEcuM;
       infServiceSwcEcuM_ServiceEcuM* ptrinfServiceSwcEcuM_ServiceEcuM;
 };
 

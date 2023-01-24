@@ -17,6 +17,12 @@
 #define CONSTSERVICENVM_AR_RELEASE_VERSION_MAJOR                               4
 #define CONSTSERVICENVM_AR_RELEASE_VERSION_MINOR                               3
 
+#define Const_DefaultInit_ConstServiceNvM                                                                                    \
+   ,  {                                                                                                                      \
+            {CONSTSERVICENVM_AR_RELEASE_VERSION_MAJOR, CONSTSERVICENVM_AR_RELEASE_VERSION_MINOR, 0x00,0xFF,0x01,'0','1','0'} \
+         ,  &EcuabMemIf                                                                                                      \
+      }                                                                                                                      \
+
 /******************************************************************************/
 /* MACROS                                                                     */
 /******************************************************************************/
@@ -34,10 +40,10 @@
 class ConstServiceNvM_Type:
       public ConstModule_TypeAbstract
 {
-   public:
 /******************************************************************************/
 /* CONSTS                                                                     */
 /******************************************************************************/
+   public:
       infEcuabMemIf_ServiceNvM* ptrinfEcuabMemIf_ServiceNvM;
 };
 
