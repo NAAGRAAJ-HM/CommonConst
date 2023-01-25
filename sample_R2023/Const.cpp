@@ -8,8 +8,8 @@
 /******************************************************************************/
 #include "Std_Types.hpp"
 
-#include "Const.hpp"
 #include "infConst_Imp.hpp"
+#include "Const.hpp"
 
 #include "Cfg.hpp"
 

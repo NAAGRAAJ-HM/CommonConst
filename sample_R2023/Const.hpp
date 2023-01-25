@@ -83,7 +83,6 @@ class Const_Type{
    public:
       ConstApplSwcFoc_Type       ConstApplSwcFoc;
       ConstProjectARA_Type       ConstProjectARA;
-
       ConstServiceBswM_Type      ConstServiceBswM;
       ConstServiceCanNm_Type     ConstServiceCanNm;
       ConstServiceCanSm_Type     ConstServiceCanSm;
